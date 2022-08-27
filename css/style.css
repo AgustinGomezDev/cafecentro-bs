@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;700;800&display=swap');
+
+*{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.logo{width: 60px;}
+
+.link{color: #000;}
+
+.link:hover{color: #967259;}
+
+.active{
+    color: #967259;
+    font-weight: 800;
+}
+
+.hero{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+}
+
+.mask{background-color: rgba(0, 0, 0, 0.5);}
+
+.hero__title{
+    font-weight: 800;
+    font-size: 50px;
+}
+
+.hero__subtitle{
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.navbar-toggler:focus{
+    box-shadow: none;
+}
+
+.location__iframe{height: 355px;}
+
+.schedule__table{border-collapse: collapse; }
+
+.schedule__table tbody{
+    background: rgb(56,34,15);
+    background: linear-gradient(90deg, rgba(56,34,15,1) 50%, rgba(150,114,89,1) 100%);
+    background-attachment:fixed;
+    
+}
+
+.schedule__table tbody tr{border-bottom:1px solid #e1e1e1;}
+
+.schedule__table tbody tr td{padding: 10px;}
+
+.schedule__table thead tr th{
+    background-color: #e1e1e1;
+    padding: 10px 0;
+}
+
+.cup-img{
+    width: 250px;
+    height: auto;
+}
+
+.testimonials__img{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border: 2px solid #fff;
+}
+
+.testimonials-bg-img{
+    width: 300px;
+    height: 470px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.footer{background-color: #141414;}
+
+.footer-ul{width: 200px;}
+
+.footer-link{color: #fff;}
+
+.footer-link:hover{color: #967259}
+
+@media (max-width: 767.98px) { 
+    .responsive{
+        flex-direction: column;
+        align-items: center;
+    }
+}
