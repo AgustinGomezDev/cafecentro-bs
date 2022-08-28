@@ -95,10 +95,10 @@
     width: 100%;
 }
 
-.bag-img{
-    width: 200px;
-}
+.bag-img{width: 200px;}
 
-.price{
-    color: #967259;
-}
+.price{color: #967259;}
+
+.form-label{color: #967259;}
+
+.form-submit{background-color: #967259;}
