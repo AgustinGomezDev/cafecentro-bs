@@ -107,12 +107,17 @@
 
 .contact-img{width: 350px;}
 
-.contact-form__container{
-    align-items: flex-start;
-}
+.contact-form__container{align-items: flex-start;}
 
 @media (max-width: 767.98px){
     .contact-form__container{
         align-items: center;
     }
+}
+
+.about-us-img{width: 350px;}
+
+.about-us-text{
+    width: 400px;
+    text-align: justify;
 }
