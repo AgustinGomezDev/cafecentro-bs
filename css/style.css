@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;700;800&display=swap');
 
-*{
-    font-family: 'Nunito Sans', sans-serif;
-}
+*{font-family: 'Nunito Sans', sans-serif;}
 
 .logo{width: 60px;}
 
@@ -46,7 +44,6 @@
     background: rgb(56,34,15);
     background: linear-gradient(90deg, rgba(56,34,15,1) 50%, rgba(150,114,89,1) 100%);
     background-attachment:fixed;
-    
 }
 
 .schedule__table tbody tr{border-bottom:1px solid #e1e1e1;}
@@ -91,4 +88,17 @@
         flex-direction: column;
         align-items: center;
     }
+}
+
+.menu-container{
+    max-width: 1000px;
+    width: 100%;
+}
+
+.bag-img{
+    width: 200px;
+}
+
+.price{
+    color: #967259;
 }
