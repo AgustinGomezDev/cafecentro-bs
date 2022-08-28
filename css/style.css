@@ -106,3 +106,13 @@
 .contact-img__container{height: 600px;}
 
 .contact-img{width: 350px;}
+
+.contact-form__container{
+    align-items: flex-start;
+}
+
+@media (max-width: 767.98px){
+    .contact-form__container{
+        align-items: center;
+    }
+}
