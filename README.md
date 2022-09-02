@@ -17,5 +17,8 @@ Take a look at the webiste [here](https://agustingomezdev.github.io/coderhouse-w
 - AOS library ([info](https://github.com/michalsnik/aos)).
 - Bootstrap ([info](https://getbootstrap.com/)).
 
+### The same web page without Bootstrap
+Take a look [here](https://github.com/AgustinGomezDev/coderhouse-web-development-course).
+
 ### Contact 
 You can reach me at agustingomezdev@gmail.com
