@@ -1,4 +1,4 @@
-# Coderhouse - Web development course (Bootstrap)
+# CaféCentro Bootstrap - CoderHouse web development course
 
 ### About
 CaféCentro is a fictitious company created to build the project for the web development course of [Coderhouse](https://www.coderhouse.com).
@@ -8,7 +8,7 @@ The name and logo of the company were created by me, as well as its color palett
 ---
 
 ### Demo
-Take a look at the webiste [here](https://agustingomezdev.github.io/coderhouse-web-development-course-bootstrap/).
+Take a look at the webiste [here](https://agustingomezdev.github.io/cafecentro-bs/).
 
 ### Built with
 - Figma
@@ -18,7 +18,7 @@ Take a look at the webiste [here](https://agustingomezdev.github.io/coderhouse-w
 - Bootstrap ([info](https://getbootstrap.com/)).
 
 ### The same web page without Bootstrap
-Take a look [here](https://github.com/AgustinGomezDev/coderhouse-web-development-course).
+Take a look [here](https://github.com/AgustinGomezDev/cafecentro).
 
 ### Contact 
 You can reach me at agustingomezdev@gmail.com
